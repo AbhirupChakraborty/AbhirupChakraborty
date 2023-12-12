@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhirup Chakraborty</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<!-- <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://camo.githubusercontent.com/82f491f0f34bdd7b0082f9e122f254a05ac1e3eda4c974761727877fefd11350/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f31662f38352f65313166383532396632313531633036383831656534633938616661656337322e676966)"/> -->
+<img align="right" alt="Coding" width="400" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhirupchakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="abhirupchakraborty" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhirupchakraborty" alt="abhirupchakraborty" /></a> </p>
@@ -35,9 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhirupchakraborty&show_icons=true&locale=en" alt="abhirupchakraborty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhirupchakraborty&" alt="abhirupchakraborty" /></p>
-![Code](https://blog.penjee.com/wp-content/uploads/2015/11/while-loop-if-else-even-vs-odd-animation-how-it-works.gif)
 
-<p align="center"> 
- <b>Lets count the visitors!</b><br>
-  <img src="https://profile-counter.glitch.me/shivam1808/count.svg" />
-</p>

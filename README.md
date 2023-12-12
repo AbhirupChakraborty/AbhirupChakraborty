@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhirup Chakraborty</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"/>
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhirupchakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="abhirupchakraborty" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhirupchakraborty" alt="abhirupchakraborty" /></a> </p>

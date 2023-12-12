@@ -6,9 +6,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhirupchakraborty" alt="abhirupchakraborty" /></a> </p>
 
-- 🌱 I’m currently learning **React, React Native**
+<h3 align="center"><i>M.Tech CSE in IIIT, Bangalore</i></h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbhirupChakraborty](https://github.com/AbhirupChakraborty)
+
+- 💻 Achieved **AIR 1048 in Gate CS 2022** conducted by **IIT Kharagpur** among 77257 candidates
+
+- 👨‍💻 Currently I'm sharping my skill of **Data Structure and Algorithm** 
+
+- 🌱 I’m currently learning **React, React Native**
 
 - 💬 Ask me about **MERN stack, DevOps, Linux**
 

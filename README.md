@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **abhirup.chakraborty1998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AUQzUNMwzWIxfVL-eoh_nE9vgL_sLXl0/view?usp=sharing](https://drive.google.com/file/d/1AUQzUNMwzWIxfVL-eoh_nE9vgL_sLXl0/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jlE6jFA59Z-faK-d5eCQewwogJ8o-AJ0/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
